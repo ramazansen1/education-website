@@ -1,4 +1,4 @@
-<h1>EDUCATINO WEBSITE</h1>
+<h1>EDUCATION WEBSITE</h1>
 
 Institution website serving as online education
 
